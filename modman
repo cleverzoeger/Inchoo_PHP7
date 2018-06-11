@@ -10,11 +10,12 @@ app/code/community/Mage/Connect/Packager.php                         app/code/co
 app/code/community/Mage/Core/Model/Layout.php                        app/code/community/Mage/Core/Model/Layout.php
 app/code/community/Mage/Sales/Model/Config/Ordered.php               app/code/community/Mage/Sales/Model/Config/Ordered.php
 app/code/community/Varien/File/Uploader.php                          app/code/community/Varien/File/Uploader.php
+
+# shell
+shell/inchoo_php7_test.php                                           shell/inchoo_php7_test.php
+
 # lib/varien
 app/code/community/Varien/Crypt.php                                  app/code/community/Varien/Crypt.php
 
 # app/etc
 app/etc/modules/Inchoo_PHP7.xml                                      app/etc/modules/Inchoo_PHP7.xml
-
-# shell
-shell/inchoo_php7_test.php                                           shell/inchoo_php7_test.php
